@@ -1,2 +1,2 @@
 # dev_learning
-Repo is used for learning Git
+'''Repo is used for learning Git '''
