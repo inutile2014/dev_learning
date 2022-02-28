@@ -1,0 +1,33 @@
+commit 05f7ee693814acd711005cc3be40bac9fffe5926
+Author: inutile2014 <inutile2014@gmail.com>
+Date:   Mon Feb 28 05:36:39 2022 -0500
+
+    first commit
+
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..26fc6a1
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,11 @@
++<html>
++    <head>
++      <title>Title of the document</title>
++    </head>
++    
++    <body>
++      <h1>This is a heading</h1>
++      <p>This is a paragraph.</p>
++    </body>
++    
++    </html> 
+\ No newline at end of file
+diff --git a/main.js b/main.js
+new file mode 100644
+index 0000000..e69de29
+diff --git a/style.css b/style.css
+new file mode 100644
+index 0000000..e69de29
+diff --git a/test_dir/test.js b/test_dir/test.js
+new file mode 100644
+index 0000000..e69de29
